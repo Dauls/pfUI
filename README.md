@@ -1,4 +1,5 @@
-   # pfUI TWoW Edition - Vanilla +Plus 
+   # pfUI - Vanilla +Plus 
+   Originally a TWoW Edition
 
 # LibTotem already has the custom Vanilla +Plus file
 # Fixed worldmap tearing 
