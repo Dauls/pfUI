@@ -1,4 +1,6 @@
-# pfUI - Turtle WoW Edition
+# pfUI TWoW Edition - Vanilla +Plus 
+
+Lib Totem already has the custom vanilla +plus file
 
 [![Version](https://img.shields.io/badge/version-8.3.0-blue.svg)](https://github.com/me0wg4ming/pfUI)
 [![Turtle WoW](https://img.shields.io/badge/Turtle%20WoW-1.18.0-brightgreen.svg)](https://turtlecraft.gg/)
